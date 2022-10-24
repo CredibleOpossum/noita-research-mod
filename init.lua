@@ -1,5 +1,5 @@
-local EZWand = dofile_once("mods/Research Mod/lib/EZWand.lua")
-local json = dofile_once("mods/Research Mod/lib/json.lua")
+local EZWand = dofile_once("mods/noita-research-mod/lib/EZWand.lua")
+local json = dofile_once("mods/noita-research-mod/lib/json.lua")
 
 local function get_player() return EntityGetWithTag("player_unit")[1] end
 
