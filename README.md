@@ -2,4 +2,4 @@
 
 Example of gameplay:
 
-![Output sample](https://raw.githubusercontent.com/CredibleOpossum/noita-research-mod/main/demo.gif)
+![Demo](https://github.com/CredibleOpossum/noita-research-mod/raw/main/demo.gif)
